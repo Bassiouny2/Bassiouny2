@@ -2,5 +2,6 @@
 - 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning ... Front-end Development 
 - 💞️ I’m looking to collaborate on ... Web Development
-- 📫 How to reach me ... [Youtube chanal](https://www.youtube.com/channel/UCiYJPzDzzml6O_TKiuMRm-A) [Linkedin Profile] (https://www.linkedin.com/in/shaker7/)
-
+- 📫 How to reach me ... [Youtube chanal](https://www.youtube.com/channel/UCiYJPzDzzml6O_TKiuMRm-A) 
+- 📫 How to reach me ... [Linkedin Profile](https://www.linkedin.com/in/shaker7/)
+- 📫 How to reach me ... [Gmail](v18abassiouny@gmail.com)
